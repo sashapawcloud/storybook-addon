@@ -88,6 +88,9 @@
     "@storybook/theming": "^5.0.0",
     "react": "^16.8.6"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "keywords": [
     "storybook",
     "react",
